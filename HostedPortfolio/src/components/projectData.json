@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "    Flight & Trip Booking Platform with Smart Sharing MERN Stack (Ongoing Project) ",
+    "description": "AI-powered trip planner with real-time itineraries.",
+    "descriptionn": "Designed and developed a full-stack flight and trip booking system with React.js, Tailwind CSS, and RESTful APIs, featuring a user dashboard, admin controls, and vendor booking management. Added smart trip-sharing functionality where users can connect with others traveling to the same destination, enabling cost-effective shared trips after mutual agreement. Integrated real-time status tracking, and UI animations for enhanced user interaction, with reusable components for clean and scalable UI architecture. ",
+    "tech": ["React", "Node.js", "OpenAI", "MongoDB"],
+    "certificate": "https://example.com/certificate.pdf",
+    "screenshots": [],
+    "image": "/Trip/aaa.png"
+  },
+  {
+    "id": "2",
+    "title": "Don8LIfe",
+    "description": "AI-powered trip planner with real-time itineraries.",
+   "descriptionn": "Designed and developed a user-friendly and responsive healthcare website aimed at promoting and facilitating blood donation. The platform allows users to seamlessly register as blood donors, locate nearby blood banks using geolocation, and request emergency blood donations from both hospitals and individuals. Integrated a real-time donor matching system to ensure efficient and timely responses during emergencies. The application includes secure user authentication, dynamic routing, form validation, and a clean, intuitive UI/UX design that enhances user engagement. Built using modern web technologies including HTML, CSS, JavaScript, React.js for the frontend, and Firebase for authentication and real-time database services. This project addresses a critical social need by streamlining blood donation processes and encouraging community involvement.",
+    "tech": ["HTML", "CSS", "JavaScript", "Bootstrap","React","Firebase"],
+    "certificate": "https://example.com/certificate.pdf",
+    "screenshots": ["/Don8life/Picture1.jpg","/Don8life/Picture2.jpg","/Don8life/Picture3.jpg","/Don8life/Picture4.jpg","/Don8life/Picture5.jpg"],
+    "image": "/Don8life/Picture1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Clone The Neu Cup",
+    "description":"Cup therapy Website Frontend",
+    "descriptionn": "Created a user-friendly healthcare website for cup therapy, helping people find certified practitioners and book sessions easily. The platform lets professionals register, while users can browse a directory, schedule appointments, and learn about the benefits of therapy. Designed for smooth navigation on all devices, the website offers a simple and engaging experience. Built with HTML, CSS, JavaScript, for security and reliability. .",
+   "tech": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "certificate": "https://example.com/certificate.pdf",
+    "screenshots": ["/cup/b.png", "/cup/a.png","/cup/c.png","/cup/d.png","/cup/e.png"],
+    "image": "/cup/a.png"
+  },
+  {
+    "id": "4",
+    "title": "Golden Mart",
+    "description": "Developed a full-stack e-commerce website",
+    "descriptionn": "Developed a full-stack e-commerce website using PHP and MySQL. Implemented features such as user authentication, product listing, and cart functionality to enhance the shopping experience.",
+    "tech": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP","MySQL","Xampp"],
+    "certificate": "https://example.com/certificate.pdf",
+    "screenshots": ["/GoldenMart/aa.png", "/GoldenMart/bb.png", "/GoldenMart/cc.png", "/GoldenMart/dd.png", "/GoldenMart/ee.png", "/GoldenMart/ff.png", "/GoldenMart/bb.png"],
+    "image": "/GoldenMart/aa.png"
+  }
+]
